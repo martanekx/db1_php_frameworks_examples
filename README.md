@@ -1,4 +1,14 @@
-db1_php_frameworks_examples
+DB1 - Php frameworky
 ===========================
 
-Ukázky využití PHP frameworků.
+- Yii PHP framework http://www.yiiframework.com/
+-- http://www.yiiframework.com/screencasts/
+
+- Kohana http://kohanaframework.org/
+
+
+
+Ostatní frameworky a nástroje
+===========================
+
+- Bootstrap http://getbootstrap.com/
