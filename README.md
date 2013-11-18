@@ -12,3 +12,10 @@ Ostatní frameworky a nástroje
 ===========================
 
 - Bootstrap http://getbootstrap.com/
+- http://www.initializr.com/
+
+
+Yii framework
+===========================
+1. Stáhnout .zip a rozbalit
+2. Otevřu v URL adresář requirements
